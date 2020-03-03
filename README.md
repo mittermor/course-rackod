@@ -15,7 +15,6 @@ Thus, only one person per homework/revision/exam has to post it.
 > Date
 >> Subject<br>
 >> Priority<br>
-> ---
 >> Description              
 
 
