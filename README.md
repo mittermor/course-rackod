@@ -12,7 +12,7 @@ Thus, only one person per homework/revision/exam has to post it.
 
 ## Structure - Theory
 
-#### Date
+> Date
 >> Subject<br>
 >> Priority<br>
 ---
