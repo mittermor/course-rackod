@@ -13,9 +13,10 @@ Thus, only one person per homework/revision/exam has to post it.
 ## Structure - Theory
 
 #### Date
-      Subject                 
-      Priority                
-      Description                          
+      Subject
+      Priority
+      ---
+      Description               
 
 
 ## Structure - Example
