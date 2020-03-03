@@ -3,8 +3,7 @@
 URL: http://course.rackod.com/
 
 Rackod is a project from @mittermor and @cienbiswas for school purposes.
-<br>
-<br>
+
 ## Application
 
 The application of Rackod provides classes to organise and plan their important school dates.
