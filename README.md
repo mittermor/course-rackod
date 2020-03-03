@@ -23,6 +23,8 @@ Date
 > ---
 > Description
 
+<br>
+
 ## Structure - Example
 
 Mon Mar 02 2020
