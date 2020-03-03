@@ -4,8 +4,8 @@ URL: http://course.rackod.com/
 
 Rackod is a project from @mittermor and @cienbiswas for school purposes.
 
-<br>
-<br>
+
+
 
 ## Application
 
